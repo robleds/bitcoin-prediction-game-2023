@@ -1,4 +1,4 @@
-# OBA Transfero WebSummit 2023
+# bitcoin-prediction-game-2023
 
 Aplicação web desenvolvida para a WebSummit 2023 da Transfero.
 
@@ -24,8 +24,8 @@ Aplicação web desenvolvida com React e Vite para a participação da Transfero
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU-USUARIO/oba-transfero-websummit-2023.git
-cd oba-transfero-websummit-2023
+git clone https://github.com/SEU-USUARIO/bitcoin-prediction-game-2023.git
+cd bitcoin-prediction-game-2023
 ```
 
 2. Instale as dependências:

@@ -1,12 +1,12 @@
 {
-  "name": "transfero-websummit-2023",
+  "name": "bitcoin-prediction-game-2023",
   "version": "1.0.5",
   "description": "A blockchain finance solutions company focused on enabling a more decentralized and free global system.",
   "homepage": "https://www.obatag.com.br",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/SEU-USUARIO/oba-transfero-websummit-2023.git"
+    "url": "https://github.com/SEU-USUARIO/bitcoin-prediction-game-2023.git"
   },
   "license": "ObaTag Copyrights 2023",
   "scripts": {
@@ -76,7 +76,7 @@
     ]
   },
   "author": {
-    "name": "Rodrigo Robledo • Doctor Web",
+    "name": "bitcoin-prediction-game-2023",
     "email": "robledo@doctorweb.com.br",
     "url": "http://doctorweb.com.br/"
   },
